@@ -1,0 +1,67 @@
+
+p { color: red;
+width:600px;
+background-color: #6A7AB5;
+padding: 10px;
+margin: 10px;
+border-style: solid;
+border: 2px solid black;
+border-radius: 5px;
+ }
+body {
+background-color: #6A7AB5;
+
+background-image: url("slike/0.png");
+
+font-family: Arial, Helvetica, sans-serif;
+font-size: 14px;
+line-height: 16px;
+color: yellow;
+}
+
+
+
+a:link {
+background-color: red;
+padding: 5px;
+margin: 5px;
+border-style: solid;
+border: 2px solid black;
+border-radius: 5px;
+line-height: 35px;
+}
+
+
+a:visited {
+background-color: green;
+padding: 5px;
+margin: 5px;
+border-style: solid;
+border: 2px solid black;
+border-radius: 5px;
+line-height: 35px;
+}
+
+
+a:hover {
+background-color: purple;
+padding: 5px;
+margin: 5px;
+border-style: solid;
+border: 2px solid black;
+border-radius: 5px;
+line-height: 35px;
+}
+
+a:active {
+background-color: blue;
+padding: 5px;
+margin: 5px;
+border-style: solid;
+border: 2px solid black;
+border-radius: 5px;
+line-height: 35px;
+} 
+
+
+
